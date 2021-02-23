@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Author: Joan Lopez
+Date: 23/02/2021
+Piano
  */
 package p21_terminal;
 
